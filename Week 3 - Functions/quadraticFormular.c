@@ -1,4 +1,4 @@
-// examples
+// Code: Helps user calculate the roots of a quadratic equation 
 
 #include<stdio.h>
 #include<math.h>
